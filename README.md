@@ -13,7 +13,7 @@ There no need to perform complex actions. It is enough to just pull or download 
 ## Usage
 You pass the map's name as an argument. If the map is valid it prints out the shortest path from the point 1 to the point 2 by character 'o'.
 ```
-./my_project argument1 argument2
+./my_mouse path_to_a_map_file
 ```
 
 ### The Core Team
