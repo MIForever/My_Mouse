@@ -2,7 +2,7 @@
 ***
 
 ## Task
-The task is figure out how to find the shortest way according to the given map using specific algorithms and print it out.
+The task is to figure out how to find the shortest way according to the given map using specific algorithms and print it out.
 
 ## Description
 It comes out there is a "Lee algorithm" that deals with exactly this kinda of problem. I used that algorithm by converting the given map into the matrix. (The reason they are submitted only by me, not also by my partner, We only coded on the same laptop and my profile.)
